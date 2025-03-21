@@ -1,0 +1,1 @@
+import{j as t}from"./index-APhMtbCr.js";const s=({error:e,resetErrorBoundary:r})=>t.jsxs(t.Fragment,{children:[t.jsx("div",{children:e.message}),t.jsx("button",{type:"button",class:"btn btn-danger",onClick:r,children:"Retry"})]});export{s as default};
